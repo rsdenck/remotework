@@ -4,53 +4,17 @@ Este repositório reúne listas de vagas remotas para vários países.
 
 ## Escolha seu país e veja as vagas disponíveis:
 
-<div>
-  <a href="./vagas_brasil.md" style="text-decoration:none;">
-    <button style="background-color:#007bff; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Brasil
-    </button>
-  </a>
-
-  <a href="./vagas_argentina.md" style="text-decoration:none;">
-    <button style="background-color:#28a745; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Argentina
-    </button>
-  </a>
-
-  <a href="./vagas_chile.md" style="text-decoration:none;">
-    <button style="background-color:#ffc107; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Chile
-    </button>
-  </a>
-
-  <a href="./vagas_colombia.md" style="text-decoration:none;">
-    <button style="background-color:#17a2b8; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Colômbia
-    </button>
-  </a>
-
-  <a href="./vagas_panama.md" style="text-decoration:none;">
-    <button style="background-color:#6f42c1; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Panamá
-    </button>
-  </a>
-
-  <a href="./vagas_portugal.md" style="text-decoration:none;">
-    <button style="background-color:#dc3545; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Portugal
-    </button>
-  </a>
-
-  <a href="./vagas_uruguai.md" style="text-decoration:none;">
-    <button style="background-color:#20c997; border:none; color:white; padding:10px 20px; margin:5px; cursor:pointer; border-radius:5px;">
-      Uruguai
-    </button>
-  </a>
-</div>
+| País        | Link                          | País        | Link                          | País        | Link                          |
+|-------------|-------------------------------|-------------|-------------------------------|-------------|-------------------------------|
+| Brasil      | [vagas_brasil.md](./vagas_brasil.md)      | Argentina   | [vagas_argentina.md](./vagas_argentina.md) | Chile       | [vagas_chile.md](./vagas_chile.md)       |
+| Colômbia    | [vagas_colombia.md](./vagas_colombia.md)  | Panamá      | [vagas_panama.md](./vagas_panama.md)       | Portugal    | [vagas_portugal.md](./vagas_portugal.md) |
+| Uruguai     | [vagas_uruguai.md](./vagas_uruguai.md)    |             |                               |             |                               |
 
 ---
 
-Além disso, temos o arquivo [chile.md](./chile.md) com mais informações sobre o Chile.
+## Informações adicionais
+
+- Arquivo extra com informações sobre o Chile: [chile.md](./chile.md)
 
 ---
 
