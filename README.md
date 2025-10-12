@@ -12,7 +12,8 @@ Este repositório reúne listas de vagas remotas para vários países.
 | Colômbia    | [vagas_colombia.md](./vagas_colombia.md)      |  
 | Panamá      | [vagas_panama.md](./vagas_panama.md)          |
 | Portugal    | [vagas_portugal.md](./vagas_portugal.md)      |  
-| Uruguai     | [vagas_uruguai.md](./vagas_uruguai.md)        |   
+| Uruguai     | [vagas_uruguai.md](./vagas_uruguai.md)        |
+| Nomad Dig   | [nomad.md](./NOMAD_DIGITAL.md)                |
 
 ---
 
